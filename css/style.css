@@ -65,3 +65,25 @@ header h1{
 .un-list > li{
     margin-left: 10px;
 }
+
+/* tabella */
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead > tr{
+    background-color: #35a0e2;
+}
+
+.blue-row{
+    background-color: lightblue;
+}
+
+.t-cell{
+    width: 25%;
+}
+
+.t-text{
+    width: 50%;
+}
