@@ -30,7 +30,7 @@ header h1{
 }
 
 .container{
-    margin: 0 10px;
+    margin: 10px;
 }
 
 
@@ -55,4 +55,9 @@ header h1{
 .tim-images > img{
     height: 100%;
     width: auto;
+}
+
+/* MAIN  */
+.highlighted{
+    background-color: #ffd900;
 }
