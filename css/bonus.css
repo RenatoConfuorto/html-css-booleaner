@@ -1,0 +1,14 @@
+.container{
+    width: 60vw;
+    margin: 10px auto;
+}
+/* 
+.tim-images{
+    width: 60vw;
+    margin-top: 10px;
+} 
+*/
+.tim-images > img{
+    max-width: 50%;
+    width: auto;
+}
